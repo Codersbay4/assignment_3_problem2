@@ -1,4 +1,9 @@
 # An essay to explain the MLOps Lifecycle, including the integration of DevOps, DataOps, and ModelOps
+# Essay explaining ML Ops
+#Introduction to ML Ops
+#Integration with Devops
+#etc etc
+
 
 Introduction
 
